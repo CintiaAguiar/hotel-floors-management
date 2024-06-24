@@ -16,6 +16,3 @@ Execute cada arquivo Python separadamente para ver os resultados.
 python for_loop.py
 python while_loop.py
 python do_while_emulated.py
-
-## Contribuição
-Sinta-se à vontade para contribuir com melhorias e novas funcionalidades!
